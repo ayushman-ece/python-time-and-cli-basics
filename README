@@ -1,0 +1,18 @@
+# Python Time Module Practice
+
+This repository contains beginner Python programs using the `time` module and basic command-line concepts.
+
+## Topics Covered
+- Current time functions
+- Time delay using sleep()
+- Time shifting examples
+- Command-line utility basics
+
+## Files
+- current_time_example.py
+- time_sleep_example.py
+- time_shift_example.py
+- command_line_utility.py
+
+## Learning Goal
+To understand Python's time-related functions and basic CLI programming concepts.
